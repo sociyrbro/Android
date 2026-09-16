@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">你好世界</string>
+    <string name="button">点击我</string>
+    <string name="hello_world">你好世界！</string>
+</resources>

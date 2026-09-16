@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">2024110213</string>
-    <string name="button">click me</string>
-
+    <string name="app_name">Hello World</string>
+    <string name="button">Click Me</string>
+    <string name="hello_world">Hello World!</string>
 </resources>
