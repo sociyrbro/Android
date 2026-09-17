@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.a2024110213"
+    namespace = "cn.edu.sicnu.cs.stu.guolijie.first"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.a2024110213"
+        applicationId = "cn.edu.sicnu.cs.stu.guolijie.first"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

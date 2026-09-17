@@ -1,4 +1,4 @@
-package com.example.a2024110213
+package cn.edu.sicnu.cs.stu.guolijie.first
 
 import android.os.Bundle
 import android.view.Gravity
